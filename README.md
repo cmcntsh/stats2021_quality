@@ -19,6 +19,7 @@ This is part of a set of pages on statistics. https://github.com/cmcntsh/stats20
 * Implementation and interpretation of control charts in R (qcc package) https://datascienceplus.com/implementation-and-interpretation-of-control-charts-in-r/
 * R quality control charts ggQC http://rcontrolcharts.com/
 * Quality control charts: x-bar, R-chart, process capability analysis https://towardsdatascience.com/quality-control-charts-x-bar-chart-r-chart-and-process-capability-analysis-96caa9d9233e
+* STATISTICAL METHODS FOR QUALITY ASSURANCE: Basics, Measurement, Control, Capability, and Improvement https://www.imse.iastate.edu/dorneich/files/2013/05/IE361_WorkingVandJ-SQC.pdf
 
 ## Statistical Concept Videos
 
